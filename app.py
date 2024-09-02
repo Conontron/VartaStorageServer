@@ -22,7 +22,7 @@ class ModbusData:
     software_version_ens: str
     software_version_inverter: str
 
-varta = VartaStorage('127.0.0.1', 502, username="username", password="password", cgi=False)
+varta = VartaStorage('127.0.0.1', 502, username="username", password="password", cgi=False) #Edit this values
 
 def fetch_modbus_data():
     while True:
@@ -63,3 +63,5 @@ def get_modbus_data():
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5555)
 
+# Made by Conontron
+#Licensed under MIT License
