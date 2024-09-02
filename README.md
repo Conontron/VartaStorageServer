@@ -5,7 +5,7 @@ A simple Flask server for displaying VartaStorage data via Modbus using the Vart
 
 - Fetches and displays data from Varta Storage devices
 - Uses Modbus protocol for communication
-- Built with Flask for a lightweight web interface
+- Built with Flask for a lightweight web interface that displays data in json format
 
 ## Requirements
 
