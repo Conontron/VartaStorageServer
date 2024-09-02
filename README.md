@@ -49,7 +49,16 @@ Before running the server, make sure to update the IP address, username, and pas
 - Ensure that the VartaStorage device is connected and accessible via the provided IP address.
 - Modify the Flask route handlers as needed to customize data display.
 
-## Credits Python module
-VartaStorage python module by Vip0r [https://github.com/Vip0r/vartastorage]
+## Credits
+
+- **VartaStorage Python module**: This project uses the `VartaStorage` Python module created by Vip0r. You can find the module and its documentation on [GitHub](https://github.com/Vip0r/vartastorage).
+
+- **Flask Framework**: This server is built using the [Flask](https://github.com/pallets/flask) framework for Python.
+
+- **Modbus Protocol**: Communication with the VartaStorage devices is handled using the Modbus protocol.
+
+## License
+
+This project is licensed under MIT License
 
 
