@@ -48,3 +48,8 @@ Before running the server, make sure to update the IP address, username, and pas
 
 - Ensure that the VartaStorage device is connected and accessible via the provided IP address.
 - Modify the Flask route handlers as needed to customize data display.
+
+## Credits Python module
+VartaStorage python module by Vip0r [https://github.com/Vip0r/vartastorage]
+
+
