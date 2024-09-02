@@ -1,8 +1,5 @@
 # VartaStorageServer
 A simple Flask server for displaying VartaStorage data via Modbus using the VartaStorage python module
-# VartaStorage Data Display Server
-
-A simple Flask server that displays data from VartaStorage devices. It connects via Modbus and processes the data using the `vartastorage` Python module.
 
 ## Features
 
